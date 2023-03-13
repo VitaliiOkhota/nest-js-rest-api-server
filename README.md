@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Server based on Nest JS framework. Rest API with user registration, JWT token-based authentication, roles management, and file system operations. Postgresql is used as a database. Swagger documentation is provided. Guards and Pipes are implemented.
 
 ## Installation
 
